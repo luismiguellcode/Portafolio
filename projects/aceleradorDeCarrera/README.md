@@ -16,11 +16,11 @@ Fuera de QA practico calistenia: disfruto las dominadas, el L-sit y avanzar haci
 más exigentes. La disciplina y la constancia también forman parte de como afronto mi 
 aprendizaje profesional.
 
-[Mi perfil en linkedin](![img_3.png](![img_4.png](www.linkedin.com/in/luis-gonzález-qa-engineer)
+[Mi perfil en linkedin](www.linkedin.com/in/luis-gonzález-qa-engineer)
 
 ### Mi experiencia 🧑‍💻
 
-Mi primer acercamiento al mundo de QA fue con una experiencia como como QA Tester Funcional, con un proyecto en inmuebles.com donde tuve la oportunidad de empezar a desarrollar mis habilidades en diseñar y ejecutar casos de prueba con funcionalidades de búsqueda de inmuebles, filtros, formularios, navegación y publicación de propiedades.
+Mi primer acercamiento al mundo de QA fue con una experiencia como QA Tester Funcional, con un proyecto en inmuebles.com donde tuve la oportunidad de empezar a desarrollar mis habilidades en diseñar y ejecutar casos de prueba con funcionalidades de búsqueda de inmuebles, filtros, formularios, navegación y publicación de propiedades.
 
 Esta experiencia me llevo tener la confianza de empezar el bootcamp de QA Engineer con TripleTen donde continue desarrollando mis habilidades técnicas y blandas, como atención al detalle, pensamiento crítico. Este bootcam me permitió explorar y desarrollar habilidades en PostgreSQL, prueba de API’s y automatización de casos de prueba con Selenium.
 
@@ -66,4 +66,4 @@ En este momento mi formación administrativa me ayuda a comprender modelos de ne
 
 ### 🤝 Habilidades blandas — Soft skills
 
-
+Aplico pensamiento analítico para detectar ambigüedades, atención al detalle para contrastar resultados y comunicación clara para redactar pasos reproducibles. Mantengo disciplina y aprendizaje continuo.
