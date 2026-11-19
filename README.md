@@ -7,7 +7,7 @@ sabía que existía: probar software para probar defectos y mejorar la experienc
 usuario. Me atrajo la combinación de análisis, tecnología y oportunidades de aprendizaje y
 crecimiento profesional. 
 
-Soy Luis Miguel González Ardila, profesional en aAdministración de Empresas y egresado del
+Soy Luis Miguel González Ardila, profesional en Administración de Empresas y egresado del
 bootcamp de **QA Engineer de TripleTen**. Después de trabajar en cobranza bancaria, decidí
 orientar mi trayectoria hacia un área que despertaba mi curiosidad y en la que disfrutara
 desarrollar mis capacidades. 
